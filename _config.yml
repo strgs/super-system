@@ -20,6 +20,6 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
 Field name:
   Key: 
+permalink: pretty
